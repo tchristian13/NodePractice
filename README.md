@@ -18,7 +18,7 @@ Welcome to making your first terminal app!
 Hello Kyle Rose
 2. Give them their name capitalized, preferably with some kind of sentence around it telling them what you're doing. There's a built-in string method for capitalizing!
 KYLE ROSE is your name capitalized.
-3. Print out their initials. (Again, telling them what you're doing!).
+3. Print out cdtheir initials. (Again, telling them what you're doing!).
 K. R.
 4. Give them their persevere.com email address. For example, given `Kyle Rose`, you should print out for them `krose.prsvr@gmail.com`.
 

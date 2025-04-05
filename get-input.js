@@ -17,7 +17,6 @@ function getInput(n) {
   return process.argv[n + 1];
 }
 
-"node nodePractice.js "Tia" "Willliams", getInput(1)
 
 
 module.exports = getInput;
